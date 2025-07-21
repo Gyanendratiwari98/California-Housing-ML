@@ -55,4 +55,5 @@ This project demonstrates **Linear Regression** and **Polynomial Regression** us
 
 ## 🚀 Author
 
-Made by [Your Name] – 6th Semester AIML Student
+Made by Gyanendra
+6th Semester AIML Student
